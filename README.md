@@ -13,6 +13,7 @@
   <a href="https://github.com/bhaskargurram-ai/proofcheck/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT"></a>
   <img src="https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue" alt="Python 3.10 to 3.13">
   <a href="https://pypi.org/project/proofcheck-ai/"><img src="https://img.shields.io/pypi/v/proofcheck-ai" alt="PyPI: proofcheck-ai"></a>
+  <a href="https://github.com/marketplace/actions/proofcheck-pr-evidence"><img src="https://img.shields.io/badge/GitHub%20Marketplace-action-2ea44f?logo=github" alt="GitHub Marketplace"></a>
   <img src="https://img.shields.io/badge/agent-experimental-orange" alt="Agent: experimental">
 </p>
 
@@ -24,7 +25,7 @@ It makes no attempt to guess whether a human or an AI wrote the code. It only lo
 </p>
 
 > [!NOTE]
-> **Status: 1.0.0.** Supported runners: pytest, stdlib `unittest` and Rust `cargo` (integration tests and inline `#[cfg(test)]` modules), including repositories with several projects in subfolders. Jest is experimental. The agent that writes reproduction tests is **experimental and off by default**. Feedback and runners for other ecosystems are welcome.
+> **Status: stable (1.x).** Supported runners: pytest, stdlib `unittest` and Rust `cargo` (integration tests and inline `#[cfg(test)]` modules), including repositories with several projects in subfolders. Jest is experimental. The agent that writes reproduction tests is **experimental and off by default**. Feedback and runners for other ecosystems are welcome.
 
 ## Contents
 
