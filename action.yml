@@ -1,4 +1,4 @@
-name: proofcheck
+name: proofcheck PR evidence
 description: "Evidence, not authorship: check whether a pull request actually does what it claims."
 author: Bhaskar Gurram
 branding:
